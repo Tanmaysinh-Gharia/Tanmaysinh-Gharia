@@ -27,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmaysinh-gharia&show_icons=true&locale=en" alt="tanmaysinh-gharia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaysinh-gharia&" alt="tanmaysinh-gharia" /></p>
